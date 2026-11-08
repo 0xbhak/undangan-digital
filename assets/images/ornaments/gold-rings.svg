@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 50" width="80" height="50" fill="none">
+  <defs>
+    <linearGradient id="ringGold1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBF0D9"/>
+      <stop offset="40%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#8C6D2D"/>
+    </linearGradient>
+    <linearGradient id="ringGold2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBF0D9"/>
+      <stop offset="50%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#7A5A1C"/>
+    </linearGradient>
+  </defs>
+  <!-- Ring 1 (Left) -->
+  <ellipse cx="30" cy="28" rx="18" ry="14" stroke="url(#ringGold1)" stroke-width="4.5"/>
+  <!-- Diamond gem on Ring 1 -->
+  <polygon points="30,8 34,13 30,17 26,13" fill="#FFFFFF" stroke="#D4AF37" stroke-width="1"/>
+  <circle cx="30" cy="13" r="1.5" fill="#C5A059"/>
+  <!-- Ring 2 (Right, interlocked) -->
+  <ellipse cx="50" cy="28" rx="18" ry="14" stroke="url(#ringGold2)" stroke-width="4.5"/>
+</svg>
+

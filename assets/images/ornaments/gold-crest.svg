@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" fill="none">
+  <defs>
+    <linearGradient id="crestGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E5C07B"/>
+      <stop offset="50%" stop-color="#C5A059"/>
+      <stop offset="100%" stop-color="#8C6D2D"/>
+    </linearGradient>
+  </defs>
+  <!-- Outer decorative circles -->
+  <circle cx="120" cy="120" r="105" stroke="url(#crestGold)" stroke-width="1" stroke-dasharray="4 4" opacity="0.6"/>
+  <circle cx="120" cy="120" r="96" stroke="url(#crestGold)" stroke-width="1.5"/>
+  <circle cx="120" cy="120" r="91" stroke="url(#crestGold)" stroke-width="0.75" opacity="0.8"/>
+  
+  <!-- Laurel wreath leaves left -->
+  <g stroke="url(#crestGold)" fill="none" stroke-width="1.2">
+    <path d="M 120 22 C 70 30 35 70 35 120 C 35 170 70 210 120 218"/>
+    <!-- Leaves left -->
+    <path d="M 46 70 Q 30 65 38 52 Q 48 60 46 70" fill="#C5A059" fill-opacity="0.25"/>
+    <path d="M 38 95 Q 22 92 28 80 Q 40 86 38 95" fill="#C5A059" fill-opacity="0.25"/>
+    <path d="M 35 120 Q 18 120 22 108 Q 35 112 35 120" fill="#C5A059" fill-opacity="0.25"/>
+    <path d="M 38 145 Q 22 148 28 160 Q 40 154 38 145" fill="#C5A059" fill-opacity="0.25"/>
+    <path d="M 46 170 Q 30 175 38 188 Q 48 180 46 170" fill="#C5A059" fill-opacity="0.25"/>
+    <path d="M 65 195 Q 52 205 62 216 Q 70 205 65 195" fill="#C5A059" fill-opacity="0.25"/>
+    
+    <!-- Laurel wreath leaves right -->
+    <path d="M 120 22 C 170 30 205 70 205 120 C 205 170 170 210 120 218"/>
+    <!-- Leaves right -->
+    <path d="M 194 70 Q 210 65 202 52 Q 192 60 194 70" fill="#C5A059" fill-opacity="0.25"/>
+    <path d="M 202 95 Q 218 92 212 80 Q 200 86 202 95" fill="#C5A059" fill-opacity="0.25"/>
+    <path d="M 205 120 Q 222 120 218 108 Q 205 112 205 120" fill="#C5A059" fill-opacity="0.25"/>
+    <path d="M 202 145 Q 218 148 212 160 Q 200 154 202 145" fill="#C5A059" fill-opacity="0.25"/>
+    <path d="M 194 170 Q 210 175 202 188 Q 192 180 194 170" fill="#C5A059" fill-opacity="0.25"/>
+    <path d="M 175 195 Q 188 205 178 216 Q 170 205 175 195" fill="#C5A059" fill-opacity="0.25"/>
+  </g>
+  <!-- Crown / Top ornament -->
+  <path d="M 120 12 L 123 18 L 129 19 L 124 23 L 126 29 L 120 26 L 114 29 L 116 23 L 111 19 L 117 18 Z" fill="#D4AF37"/>
+</svg>
+
