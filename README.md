@@ -14,10 +14,10 @@ Website Undangan Digital Pernikahan dengan tema mewah **Ivory & Gold Luxury** (m
 ### Jadwal Acara:
 1. **Akad Nikah:**
    - **Hari/Tanggal:** Kamis, 26 November 2026
-   - **Waktu:** 09:00 WIB s.d Selesai
-   - **Lokasi:** KUA Montasik
+   - **Waktu:** 10:00 WIB s.d Selesai
+   - **Lokasi:** Mesjid Al Jihad Montasik (Mesjid Blang Weu)
    - **Alamat:** Montasik, Aceh Besar
-   - **Google Maps:** [https://maps.app.goo.gl/P9ByNdGr3Rw2BReS6](https://maps.app.goo.gl/P9ByNdGr3Rw2BReS6)
+   - **Google Maps:** [https://maps.app.goo.gl/xC1iK5e8UahingJm8](https://maps.app.goo.gl/xC1iK5e8UahingJm8)
 
 2. **Resepsi Pernikahan:**
    - **Hari/Tanggal:** Sabtu, 28 November 2026

@@ -1,9 +1,9 @@
 /**
  * Countdown Timer to Akad Nikah
- * Date: 28 November 2026, 10:00:00 WIB (UTC+7)
+ * Date: 26 November 2026, 10:00:00 WIB (UTC+7)
  */
 function initCountdown() {
-  const targetDate = new Date('2026-11-28T10:00:00+07:00').getTime();
+  const targetDate = new Date('2026-11-26T10:00:00+07:00').getTime();
 
   const daysEl = document.getElementById('cdDays');
   const hoursEl = document.getElementById('cdHours');

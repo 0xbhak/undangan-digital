@@ -211,8 +211,8 @@ document.addEventListener('DOMContentLoaded', () => {
   if (btnCalAkad) {
     btnCalAkad.addEventListener('click', (e) => {
       e.preventDefault();
-      // Akad: 28 Nov 2026, 10:00 - 13:00 WIB (UTC+7 -> UTC 03:00 - 06:00)
-      const gcalUrl = 'https://calendar.google.com/calendar/render?action=TEMPLATE&text=Akad+Nikah+Bahri+%26+Hilya&dates=20261128T030000Z/20261128T060000Z&details=Akad+Nikah+Samsul+Bahri+%26+Hilya+Melati+bertempat+di+Mesjid+Al+Jihad+Montasik+(Mesjid+Blang+Weu)&location=Mesjid+Al+Jihad+Montasik+(Mesjid+Blang+Weu)';
+      // Akad: Kamis, 26 Nov 2026, 10:00 - 13:00 WIB (UTC+7 -> UTC 03:00 - 06:00)
+      const gcalUrl = 'https://calendar.google.com/calendar/render?action=TEMPLATE&text=Akad+Nikah+Bahri+%26+Hilya&dates=20261126T030000Z/20261126T060000Z&details=Akad+Nikah+Samsul+Bahri+%26+Hilya+Melati+bertempat+di+Mesjid+Al+Jihad+Montasik+(Mesjid+Blang+Weu)&location=Mesjid+Al+Jihad+Montasik+(Mesjid+Blang+Weu)';
       window.open(gcalUrl, '_blank');
     });
   }
@@ -225,8 +225,8 @@ document.addEventListener('DOMContentLoaded', () => {
         'Akad Nikah Bahri & Hilya',
         'Akad Nikah Samsul Bahri & Hilya Melati',
         'Mesjid Al Jihad Montasik (Mesjid Blang Weu)',
-        '20261128T030000Z',
-        '20261128T060000Z'
+        '20261126T030000Z',
+        '20261126T060000Z'
       );
     });
   }
