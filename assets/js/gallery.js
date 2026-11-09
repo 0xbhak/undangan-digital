@@ -78,6 +78,13 @@ class GalleryLightbox {
   open(index) {
     this.currentIndex = index;
     this.updateImage();
+    if (this.images.length <= 1) {
+      if (this.btnPrev) this.btnPrev.style.display = 'none';
+      if (this.btnNext) this.btnNext.style.display = 'none';
+    } else {
+      if (this.btnPrev) this.btnPrev.style.display = '';
+      if (this.btnNext) this.btnNext.style.display = '';
+    }
     this.modal.classList.add('active');
     document.body.classList.add('lock-scroll');
   }
